@@ -1,5 +1,7 @@
 # Data Analysis with Python and Jupyter Cheat Sheet
 
+## Descriptive Statistics
+
 ### Measures of Center
 Idea of typical value.
 
