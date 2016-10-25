@@ -169,7 +169,7 @@ t_critical = stats.t.ppf(q = 0.975, df=24) #df is degrees of freedom (sample siz
 ## Statistical Hypothesis Testing: The T-Test
 What is the likelihood as a percentage that something interesting is going on (when comparing data). Checks the null hypothesis.
 
-**Null Hypothesis:* Assumes nothing interesting is going on between whatever variables you are testing.
+**Null Hypothesis:** Assumes nothing interesting is going on between whatever variables you are testing.
 
 ### One-Sample T-Test
 A one-sample t-test checks whether a sample mean differs from the population mean.
