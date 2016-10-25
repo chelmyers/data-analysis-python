@@ -23,6 +23,7 @@ dataset.mode()
 How data varies from typical value.
 
 **Quantile:** Figure out the values of the 0th, 25th, 50th, 75th, and top percentile using the quantile function.
+
 ```
 five_num = [dataset["subset"].quantile(0),   
             dataset["subset"].quantile(0.25),
@@ -34,8 +35,10 @@ five_num # Will output these ^ values
 ```
 
 **Describe:** Also return quantiles, but also returns mean, standard of deviation, min and max values.
+
 ```
-dataset["subset"].describe();```
+dataset["subset"].describe();
+```
 
 **IQR:**  Interquartile Range. Distance between the 3rd and the 1st quartile. Describes the data.
 
