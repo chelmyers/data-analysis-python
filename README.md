@@ -1,6 +1,11 @@
 # Data Analysis with Python and Jupyter Cheat Sheet
 
-## Descriptive Statistics
+
+- [Descriptive Statistics](#descriptive)
+- [Statistical Inference](#stat-infer)
+
+
+## <a name="descriptive"></a>Descriptive Statistics
 
 ### Measures of Center
 Idea of typical value.
@@ -91,7 +96,7 @@ dataset["subset"].kurt()
 
 ---
 
-## Statistical Inference
+## <a name="stat-infer"></a>Statistical Inference
 Sample to guess the whole. The process of analyzing sample data to gain insight into the population from which the data was collected and to investigate differences between data samples.
 
 ### Point Estimates
